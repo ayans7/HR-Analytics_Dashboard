@@ -1,5 +1,7 @@
 # Use Case: HR Analytics Dashboard for Employee Performance & Retention
+
 Tool Used: Power BI
+
 Domain: Human Resources Analytics
 
 # Objective: 
@@ -9,28 +11,29 @@ To analyze years of employee data and build an interactive, dynamic Power BI das
 In this project, I developed a dynamic HR Analytics Dashboard using Power BI, leveraging historical employee data to uncover key insights related to employee performance and attrition. The goal was to support the HR team in making data-driven decisions to improve employee retention, enhance performance, and optimize the employee experience.
 
 # Key Features and Techniques:
-Data Transformation: Cleaned, structured, and transformed raw HR data into professional-quality reports and dashboards.
 
-Interactive Filters: Implemented slicers and filter buttons for seamless navigation across different views by year, department, job role, etc.
+**Data Transformation:** Cleaned, structured, and transformed raw HR data into professional-quality reports and dashboards.
 
-KPI Cards: Created 6 KPI cards to display high-level HR metrics such as total employees, attrition rate, average tenure, employee satisfaction score, gender diversity ratio, and training participation.
+**Interactive Filters:** Implemented slicers and filter buttons for seamless navigation across different views by year, department, job role, etc.
 
-Attrition Insights:
+**KPI Cards:** Created 6 KPI cards to display high-level HR metrics such as total employees, attrition rate, average tenure, employee satisfaction score, gender diversity ratio, and training participation.
 
-KPI Chart: Visualized attrition by gender to highlight demographic trends.
+**Attrition Insights:**
 
-Donut Chart: Showed attrition by education level for easier identification of patterns.
+**1. KPI Chart:** Visualized attrition by gender to highlight demographic trends.
 
-Additional Charts: Used various visuals (bar, line, and column charts) to analyze attrition across:
+**2. Donut Chart:** Showed attrition by education level for easier identification of patterns.
 
-1. Age groups
-2. Salary slabs
-3. Years at company
-4. Job roles
+**3. Additional Charts:** Used various visuals (bar, line, and column charts) to analyze attrition across:
 
-Job Satisfaction Table: Displayed job satisfaction scores by job role to pinpoint departments that need attention.
+a. Age groups
+b. Salary slabs
+c. Years at company
+d. Job roles
 
-Stacked Column Charts: Illustrated attrition distribution across different job roles for comparative analysis.
+**Job Satisfaction Table:** Displayed job satisfaction scores by job role to pinpoint departments that need attention.
+
+**Stacked Column Charts:** Illustrated attrition distribution across different job roles for comparative analysis.
 
 # Business Impact:
 Through detailed analysis and visualization, the dashboard helped the organization to:
