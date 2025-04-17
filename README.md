@@ -26,13 +26,13 @@ In this project, I developed a dynamic HR Analytics Dashboard using Power BI, le
 
    **3. Additional Charts:** Used various visuals (bar, line, and column charts) to analyze attrition across:
 
-          a. Age groups
+        a. Age groups
 
-          b. Salary slabs
+        b. Salary slabs
 
-          c. Years at company
+        c. Years at company
 
-          d. Job roles
+        d. Job roles
 
 
 **Job Satisfaction Table:** Displayed job satisfaction scores by job role to pinpoint departments that need attention.
