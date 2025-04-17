@@ -20,11 +20,11 @@ In this project, I developed a dynamic HR Analytics Dashboard using Power BI, le
 
 **Attrition Insights:**
 
-    **1. KPI Chart:** Visualized attrition by gender to highlight demographic trends.
+   **1. KPI Chart:** Visualized attrition by gender to highlight demographic trends.
 
-    **2. Donut Chart:** Showed attrition by education level for easier identification of patterns.
+   **2. Donut Chart:** Showed attrition by education level for easier identification of patterns.
 
-    **3. Additional Charts:** Used various visuals (bar, line, and column charts) to analyze attrition across:
+   **3. Additional Charts:** Used various visuals (bar, line, and column charts) to analyze attrition across:
 
           a. Age groups
 
